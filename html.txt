@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>welcome to lab</title>
+</head>
+<body>
+<h1>welcome our home</h1>
+</body>
+</html>
